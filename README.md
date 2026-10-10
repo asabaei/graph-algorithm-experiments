@@ -1,6 +1,6 @@
 # Random Graph Experiments: Barabási-Albert vs. Erdős-Rényi
 
-Python implementations of three graph algorithms (diameter, clustering coefficient, degree distribution), tested experimentally on two random graph models to see how real-world network properties emerge as graphs grow. Built for UCI CS 165 (Project 3).
+Python implementations of three graph algorithms (diameter, clustering coefficient, degree distribution), tested experimentally on two random graph models to see how real-world network properties emerge as graphs grow.
 
 ## Key findings
 
