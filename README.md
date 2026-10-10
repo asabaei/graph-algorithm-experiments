@@ -31,11 +31,11 @@ Both models stay "small world" at scale. Only the Barabási-Albert model produce
 
 | Diameter (Barabási-Albert) | Degree distribution, log-log (Barabási-Albert, n = 100,000) |
 |---|---|
-| ![BA diameter](images/barabasi_diameter_plot.png) | ![BA degree distribution](images/barabasi_100000_degree_loglog.png) |
+| ![BA diameter](barbasi/barabasi_diameter_plot.png) | ![BA degree distribution](barbasi/barabasi_100000_degree_loglog.png) |
 
 | Degree distribution, log-log (Erdős-Rényi, n = 100,000) | Clustering coefficient (Barabási-Albert) |
 |---|---|
-| ![ER degree distribution](images/erdos_100000_degree_loglog.png) | ![BA clustering](images/barabasi_clustering_plot.png) |
+| ![ER degree distribution](erdos/erdos_100000_degree_loglog.png) | ![BA clustering](barbasi/barabasi_clustering_plot.png) |
 
 ## Project structure
 
